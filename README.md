@@ -1,4 +1,4 @@
-#Sistema de Reconocimiento Facial Seguro 
+# Sistema de Reconocimiento Facial Seguro 
 
 Este proyecto final de curso de ASIR (Administración de Sistemas Informáticos en Red) consiste en el desarrollo de un sistema de vigilancia inteligente y seguro basado en el uso de una Raspberry Pi 4, una cámara, y un equipo Windows, todo conectado mediante una VPN segura. El objetivo principal es crear una solución de videovigilancia eficiente, con capacidades de reconocimiento facial para identificar y diferenciar entre rostros conocidos y desconocidos, ofreciendo así una medida adicional de seguridad.
 
